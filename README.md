@@ -22,7 +22,7 @@ just comebine the [heroku/php-getting-started](https://github.com/heroku/php-get
 
 7.Done.
 
-See detail at.
+See detail with picture at [my web](http://www.chy.tw/2017/08/phpherokulinebot.html).
 
 ## License
 
