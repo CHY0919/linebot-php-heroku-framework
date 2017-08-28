@@ -27,7 +27,7 @@ See detail at.
 ## License
 
 the original code owned by LINE Corporation
---
+
 
 ```
 Copyright 2016 LINE Corporation
